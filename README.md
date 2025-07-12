@@ -1,27 +1,27 @@
 NumPy
 =====
 
-Purpose:
---------
-This project is created to help beginners understand and practice NumPy using real-world climate data (temperature, rainfall, humidity). The tasks are organized across multiple Jupyter notebooks.
+About This Project:
+-------------------
+I’m Bhavik Mungekar. I created this project to understand and practice NumPy using real-world climate data. It helped me learn how NumPy works through hands-on examples and simple analysis tasks.
 
-What You Will Learn:
---------------------
-- How to use NumPy for numerical operations
-- How to load and work with CSV data
-- Array creation, slicing, and indexing
-- Performing basic statistics and calculations with NumPy
-- Simple data visualization (with matplotlib or seaborn)
-- Intro to machine learning (in later notebooks)
+What I Learned:
+---------------
+- Basics of NumPy and its core functions
+- How to load and work with data from a CSV file
+- Creating, slicing, reshaping, and manipulating arrays
+- Performing statistical calculations with NumPy
+- Visualizing data using matplotlib and seaborn
+- Applying NumPy in basic machine learning workflows
 
-Files:
-------
-- climate.txt       : Raw climate data in CSV format
-- day0.ipynb        : Introduction to NumPy and loading data
-- day1.ipynb        : Basic analysis using NumPy arrays
-- day2.ipynb        : Practice with slicing, reshaping, and operations
-- day3.ipynb        : Using NumPy for simple modeling
-- day4.ipynb        : Final analysis and model evaluation
+Files Included:
+---------------
+- climate.txt       : Dataset with temperature, rainfall, and humidity
+- day0.ipynb        : Introduction to NumPy and data loading
+- day1.ipynb        : Basic analysis using NumPy
+- day2.ipynb        : Array slicing, reshaping, and operations
+- day3.ipynb        : Using NumPy for modeling
+- day4.ipynb        : Final evaluation and insights
 
 Requirements:
 -------------
@@ -31,19 +31,23 @@ Requirements:
 - pandas
 - matplotlib
 - seaborn
-- scikit-learn (optional, for model building)
+- scikit-learn (for later notebooks)
 
-How to Use:
------------
-1. Open each notebook (day0 to day4) in Jupyter Notebook.
-2. Follow the code and explanations step by step.
-3. Try modifying the code and running your own examples.
-4. Use the `climate.txt` file for hands-on NumPy practice.
+How I Used It:
+--------------
+1. I opened each notebook one by one in Jupyter.
+2. I wrote and ran code to explore NumPy step by step.
+3. I used the `climate.txt` data file for real analysis.
+4. I practiced changing values and trying different NumPy features.
+
+Why I Made This:
+----------------
+I wanted to build a strong foundation in NumPy using real data instead of just reading theory. This project helped me build confidence and apply NumPy in useful ways.
 
 License:
 --------
-This project is for educational use only. You are free to reuse or modify the content.
+This is a personal learning project. You are free to use or modify it for educational purposes.
 
-Author:
--------
+Created by:
+-----------
 Bhavik Mungekar
